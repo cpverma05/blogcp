@@ -66,3 +66,4 @@ Based on data analysis result would be explained here though analysis has not be
 
 # Conclusion 
 Conclusion would be drawn with the help of result.
+ detais would be explain here and other parts would covered here.
